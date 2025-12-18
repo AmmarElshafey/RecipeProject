@@ -1,4 +1,4 @@
-# 🍽️ Chef Ammar - Recipe Project
+# 🍽️ Chef Ammar - Recipe Management System
 
 A simple **Recipe Management System** built with **Laravel**, where users can:
 - Add new recipes 📝
@@ -7,7 +7,7 @@ A simple **Recipe Management System** built with **Laravel**, where users can:
 - Delete recipes ❌
 - Upload recipe photos 📸
 - Use API endpoints for external integrations 🔗
-- Vedio in LinkedIN [Recipe_Management_System](https://www.linkedin.com/posts/ammar-elshafey_laravel-webdevelopment-iti-activity-7373628074124550144-7C7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG7fPMBPw-tuyzdZTyA_0BXjmjzir0xpqw)
+- Vedio in LinkedIn [Recipe Management System](https://www.linkedin.com/posts/ammar-elshafey_laravel-webdevelopment-iti-activity-7373628074124550144-7C7J?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFG7fPMBPw-tuyzdZTyA_0BXjmjzir0xpqw)
 
 ---
 
